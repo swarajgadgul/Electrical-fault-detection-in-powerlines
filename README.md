@@ -1,5 +1,5 @@
 # Electrical fault detection in transmission lines
-<center> <img src="https://lge-ku.com/sites/default/files/2021-03/Transmission_Falling_Tree_033021a.gif" width="1000" height="400"> </center>
+<center> <img src="https://media.tenor.com/LVkjPT1tGQ0AAAAC/jump-rope-power-line.gif" width="1000" height="400"> </center>
 
 ## Problem Statement:
 <p>
@@ -23,5 +23,4 @@ Normally, a power system operates under balanced conditions. When the system bec
 
 ## Conclusion
 We have performed EDA, preprocessing, build different models,
-
 Decision Tree is giving the best Result with 100 percent accuracy,with other metrics and is doing a great job till now in Fault Detection followed by Random Forest, Classifier,XGB Classifier, than the rest of the models because it's able to predict all the signals in most efficient manner while in other models there are cases where there is actually fault but the model is not able to identify it.Logistic Regression is giving the worst accuracy
